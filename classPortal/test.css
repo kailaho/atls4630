@@ -1,0 +1,16 @@
+#wrapper{
+    display: flex;
+}
+
+#navBar{
+    background-color: red;
+    position: fixed;
+    height: 100%;
+    width: 20%;
+}
+
+#homeContent{
+    background-color: blue;
+    flex: 1;
+    margin-left: 20%;
+}
